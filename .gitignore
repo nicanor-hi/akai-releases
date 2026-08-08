@@ -1,0 +1,7 @@
+# La APK se distribuye como asset de GitHub Release, no mediante Git.
+*.apk
+
+# Material de firma y configuracion local.
+*.jks
+*.keystore
+*.properties
