@@ -1,10 +1,11 @@
 {
-    "versionName": "0.19.4",
-    "versionCode": 33,
+    "versionName": "0.19.5",
+    "versionCode": 34,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "0b3738ccf1bd6b344e062b487e6b63a01acc241276677c5025baa6430efc703d",
+    "sha256": "581cfe8f1a65a45fd40105dcfd45a5234714e35d6c9e4767301b6355cdec667d",
     "releaseNotes": [
-        "Correccion de controles del reproductor nativo al volver de pantalla completa a vertical mientras un episodio esta reproduciendose."
+        "Correccion de controles del reproductor nativo al volver de pantalla completa a vertical mientras un episodio esta reproduciendose.",
+        "Sincronizacion del progreso y total publicado para favoritos de animes en emision."
     ],
     "mandatory": false
 }
