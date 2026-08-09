@@ -1,13 +1,13 @@
 {
-    "versionName": "0.18.0",
-    "versionCode": 28,
+    "versionName": "0.19.0",
+    "versionCode": 29,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "7172696d9d3146e1c950c4034a5318a37874965509e0913f564cca69473dfa07",
+    "sha256": "814ffd0e3c2c8b4b678443996b1b721cf604c8ba6e0637749bf90dacb2ccfc06",
     "releaseNotes": [
-        "Base del sistema de actualizaciones internas.",
-        "Consulta manual de nuevas versiones desde Configuracion.",
-        "Generacion automatica de update.json con SHA-256 al compilar release.",
-        "Preparacion del canal publico de distribucion."
+        "Descarga interna de actualizaciones desde Configuracion.",
+        "Progreso y cancelacion de la descarga.",
+        "Verificacion SHA-256 antes de instalar la APK.",
+        "Instalacion Android segura mediante FileProvider."
     ],
     "mandatory": false
 }
