@@ -1,12 +1,11 @@
 {
-    "versionName": "0.19.1",
-    "versionCode": 30,
+    "versionName": "0.19.2",
+    "versionCode": 31,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "274b06bc9713d955605448801d0c9bca91b7921c6c4c27043712d9d724a17894",
+    "sha256": "3719daf2736e2bd31c2a86da5a90c449e7bdafc03923db46e73f0dde1a26272f",
     "releaseNotes": [
-        "Notificaciones individuales para cada episodio nuevo.",
-        "Portada, titulo y numero de episodio en cada aviso.",
-        "Primera actualizacion de mantenimiento para probar el updater interno."
+        "El boton de actualizaciones cambia a Instalar cuando la APK ya fue descargada y verificada.",
+        "Mejora visual del flujo de actualizacion interna."
     ],
     "mandatory": false
 }
