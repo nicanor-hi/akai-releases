@@ -1,11 +1,10 @@
 {
-    "versionName": "0.19.3",
-    "versionCode": 32,
+    "versionName": "0.19.4",
+    "versionCode": 33,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "309b4cbe51b9f7c4e8f87ff48b2e3c4bcb740f05f29ef38499541fc375297cae",
+    "sha256": "0b3738ccf1bd6b344e062b487e6b63a01acc241276677c5025baa6430efc703d",
     "releaseNotes": [
-        "Consulta silenciosa de actualizaciones al abrir Akai.",
-        "Modal de nueva version con descarga guiada desde Configuracion."
+        "Correccion de controles del reproductor nativo al volver de pantalla completa a vertical mientras un episodio esta reproduciendose."
     ],
     "mandatory": false
 }
