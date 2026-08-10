@@ -1,12 +1,13 @@
 {
-    "versionName": "0.19.7",
-    "versionCode": 36,
+    "versionName": "0.19.8",
+    "versionCode": 37,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "667349637632c67f033c6295f5a4b109dd9f476b1bfeec575e6fa2f69acc7107",
+    "sha256": "f6a66792278b484a9bfd86a58b750afa95c57ca81b75f635df0accf7739471f2",
     "releaseNotes": [
-        "Reproduccion nativa de Doodstream.",
-        "Reproduccion nativa de Mixdrop.",
-        "Reproduccion nativa de Streamtape."
+        "Navegacion entre precuelas, secuelas y cronologias disponibles por provider.",
+        "Listas de episodios optimizadas para series extensas.",
+        "Favoritos, vistos y descargas separados correctamente entre temporadas.",
+        "Mejor compatibilidad de favoritos con titulos cortos y extendidos entre providers."
     ],
     "mandatory": false
 }
