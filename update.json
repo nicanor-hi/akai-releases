@@ -1,9 +1,10 @@
 {
-    "versionName": "0.19.9",
-    "versionCode": 38,
+    "versionName": "0.19.10",
+    "versionCode": 39,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "602e0c5f7128d469f7455b336cf80b7ea2e3ba35b998b7a92572e5634c177df1",
+    "sha256": "184ca9ceaa7b891a71d58c6b6b52e1073a5555f67e8e4764b8204b09fd7fb152",
     "releaseNotes": [
+        "Estado En progreso visible para favoritos con capitulos vistos pendientes.",
         "Correccion de rendimiento al navegar entre Recientes, Favoritos e Informacion.",
         "Resolucion global de favoritos y vistos optimizada para no recalcular cada episodio.",
         "Sincronizacion de progreso sin renders ni escrituras innecesarias."
