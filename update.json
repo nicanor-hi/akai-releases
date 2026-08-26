@@ -1,13 +1,10 @@
 {
-    "versionName": "0.19.13",
-    "versionCode": 42,
+    "versionName": "0.19.14",
+    "versionCode": 43,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "22e929b6f75322b1e6b563f12064a259852f4683aa8850d6257b01b041129456",
+    "sha256": "2fd6cec0112f9c02f5cf69c7e048ec7745459af48a0e182e728af62025a6cd5f",
     "releaseNotes": [
-        "Mejora la presentacion de controles del reproductor nativo.",
-        "Integra la barra de progreso y el tiempo en la franja inferior de controles.",
-        "Muestra el titulo compacto de anime y episodio solo en pantalla completa.",
-        "Sincroniza la aparicion y ocultacion de los controles y el encabezado."
+        "Se mejora el comportamiento de los controles del reproductor nativo en pantalla completa para que aparezcan y desaparezcan de forma inmediata y sincronizada."
     ],
     "mandatory": false
 }
