@@ -1,12 +1,13 @@
 {
-    "versionName": "0.19.12",
-    "versionCode": 41,
+    "versionName": "0.19.13",
+    "versionCode": 42,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "eefe00a9820ebfd7c37a6eabeffa05597373e9215b65586cbce09045c3310a2c",
+    "sha256": "22e929b6f75322b1e6b563f12064a259852f4683aa8850d6257b01b041129456",
     "releaseNotes": [
-        "Corrige favoritos y vistos entre series, peliculas, especiales, OVA y ONA.",
-        "Evita mezclar temporadas y ediciones distintas de un mismo provider.",
-        "Sincroniza el estado del corazon al abrir la informacion del anime."
+        "Mejora la presentacion de controles del reproductor nativo.",
+        "Integra la barra de progreso y el tiempo en la franja inferior de controles.",
+        "Muestra el titulo compacto de anime y episodio solo en pantalla completa.",
+        "Sincroniza la aparicion y ocultacion de los controles y el encabezado."
     ],
     "mandatory": false
 }
