@@ -1,10 +1,10 @@
 {
-    "versionName": "0.19.14",
-    "versionCode": 43,
+    "versionName": "0.19.15",
+    "versionCode": 44,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "2fd6cec0112f9c02f5cf69c7e048ec7745459af48a0e182e728af62025a6cd5f",
+    "sha256": "197408a45a969edcf2e0262565174594c382949997472dd9118fab9fb4b09114",
     "releaseNotes": [
-        "Se mejora el comportamiento de los controles del reproductor nativo en pantalla completa para que aparezcan y desaparezcan de forma inmediata y sincronizada."
+        "Mejoras en los controles del reproductor de video."
     ],
     "mandatory": false
 }
