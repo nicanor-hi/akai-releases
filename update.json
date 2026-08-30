@@ -1,10 +1,11 @@
 {
-    "versionName": "0.19.15",
-    "versionCode": 44,
+    "versionName": "0.19.16",
+    "versionCode": 45,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "197408a45a969edcf2e0262565174594c382949997472dd9118fab9fb4b09114",
+    "sha256": "94471494c0730bf98d5e8e116ae8b293adca79c7af78e76c28050adcf49d75ed",
     "releaseNotes": [
-        "Mejoras en los controles del reproductor de video."
+        "AnimeAV1: servidores SUB y DUB separados e identificados con etiquetas de audio.",
+        "AnimeFLV One: se restauran las miniaturas propias de episodios cuando estan disponibles."
     ],
     "mandatory": false
 }
