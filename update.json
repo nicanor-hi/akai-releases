@@ -1,12 +1,12 @@
 {
-    "versionName": "0.19.18",
-    "versionCode": 47,
+    "versionName": "0.20.0",
+    "versionCode": 48,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "ab468949b47155c2ebb70daa2086bc3c3edec32c728ede74317b765676696080",
+    "sha256": "b961ca2401f393afdb8440998e9ca598f05b5e9353e61fd20e8a990229861dd9",
     "releaseNotes": [
-        "Mejorado el rendimiento de Favoritos con bibliotecas grandes.",
-        "Optimizada la gesti\u00f3n de episodios vistos y el progreso de reproducci\u00f3n.",
-        "Reducidos los tiempos de respuesta al agregar o quitar favoritos y cambiar de proveedor."
+        "Nuevo proveedor DonghuaSub para ver donghuas.",
+        "Reproducci\u00f3n nativa de Dailymotion con subt\u00edtulos en espa\u00f1ol.",
+        "Mejoras de compatibilidad y estabilidad de reproducci\u00f3n."
     ],
     "mandatory": false
 }
