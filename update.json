@@ -1,12 +1,13 @@
 {
-    "versionName": "0.20.0",
-    "versionCode": 48,
+    "versionName": "0.20.1",
+    "versionCode": 49,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "b961ca2401f393afdb8440998e9ca598f05b5e9353e61fd20e8a990229861dd9",
+    "sha256": "40e53cd38c08a9f728f597013f68ff419ea8aad46771d7a69af285ab5905c6ad",
     "releaseNotes": [
-        "Nuevo proveedor DonghuaSub para ver donghuas.",
-        "Reproducci\u00f3n nativa de Dailymotion con subt\u00edtulos en espa\u00f1ol.",
-        "Mejoras de compatibilidad y estabilidad de reproducci\u00f3n."
+        "Mejorada la estabilidad de JKAnime frente a bloqueos por exceso de solicitudes.",
+        "Optimizada la velocidad de carga de Informaci\u00f3n y Servidores.",
+        "Los episodios de JKAnime ahora se cargan progresivamente, comenzando por los m\u00e1s recientes.",
+        "Mejorada la eficiencia de las consultas de animes en emisi\u00f3n."
     ],
     "mandatory": false
 }
