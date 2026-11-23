@@ -1,13 +1,11 @@
 {
-    "versionName": "0.22.0",
-    "versionCode": 51,
+    "versionName": "0.22.1",
+    "versionCode": 52,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "08701447e84bdf69ba078dd4068a5a89a607ba08fa6fd5beebc74fe8456ea1bc",
+    "sha256": "1e273b3bfdbb4bc4382b08779453fa1b65088b0ed0790ec4c7522f00241c7550",
     "releaseNotes": [
-        "Akai Mobile conserva su canal hist\u00f3rico de actualizaciones.",
-        "Primera versi\u00f3n de Akai TV para Android TV y Google TV, con navegaci\u00f3n mediante control remoto.",
-        "TV ofrece reproducci\u00f3n nativa con servidores compatibles con el dispositivo, favoritos, progreso de episodios, calendario, descargas y configuraci\u00f3n.",
-        "TV permite importar y exportar backups .akai en dispositivos con selector de documentos compatible, y utiliza un canal de actualizaciones independiente."
+        "Akai TV utiliza el icono de lanzamiento compartido con Akai Mobile.",
+        "Akai Mobile recibe una actualizaci\u00f3n de mantenimiento y conserva su icono."
     ],
     "mandatory": false
 }
