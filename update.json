@@ -1,11 +1,12 @@
 {
-    "versionName": "0.22.1",
-    "versionCode": 52,
+    "versionName": "0.23.0",
+    "versionCode": 53,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai.apk",
-    "sha256": "1e273b3bfdbb4bc4382b08779453fa1b65088b0ed0790ec4c7522f00241c7550",
+    "sha256": "858ee633ec07f12936d6f47d14755dc0e23998ee6b3456479e0449c3962b08aa",
     "releaseNotes": [
-        "Akai TV utiliza el icono de lanzamiento compartido con Akai Mobile.",
-        "Akai Mobile recibe una actualizaci\u00f3n de mantenimiento y conserva su icono."
+        "Conecta Akai Mobile con Akai TV mediante la red Wi-Fi local.",
+        "Env\u00eda episodios desde tu m\u00f3vil para reproducirlos en Akai TV.",
+        "Consulta el estado de conexi\u00f3n de forma clara junto al distintivo TV."
     ],
     "mandatory": false
 }
