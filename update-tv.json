@@ -1,11 +1,11 @@
 {
-    "versionName": "0.23.1",
-    "versionCode": 54,
+    "versionName": "0.23.2",
+    "versionCode": 55,
     "downloadUrl": "https://github.com/nicanor-hi/akai-releases/releases/latest/download/akai-tv.apk",
-    "sha256": "ba98371f2eed04412c45e2e4cee5381fe70fc015a141de23cc0e7ff000888318",
+    "sha256": "edb959e98ac7177c2f0ba5ac716d45d3947299a1cd13e1b8c8bba30bb50300f6",
     "releaseNotes": [
-        "Corregido un problema que pod\u00eda cerrar la reproducci\u00f3n en Akai TV despu\u00e9s de iniciar un episodio enviado desde el m\u00f3vil.",
-        "Mejorada la estabilidad de reproducci\u00f3n mediante Akai Connect."
+        "Corregido un problema que pod\u00eda cerrar inesperadamente los episodios enviados desde el m\u00f3vil a Akai TV.",
+        "Mejorada la apariencia de Akai Connect para respetar el color de acento seleccionado."
     ],
     "mandatory": false
 }
